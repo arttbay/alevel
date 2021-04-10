@@ -1,1 +1,1 @@
-echo "I love my parents to much"
+echo "I love my parents so much"
